@@ -5,9 +5,7 @@ import com.thebyteguru.IO.Input;
 import java.awt.*;
 
 public abstract class Entity {
-
     public final EntityType type;
-
     protected float x;
     protected float y;
 

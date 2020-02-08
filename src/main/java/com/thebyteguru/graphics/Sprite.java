@@ -6,7 +6,6 @@ import java.awt.*;
 import java.awt.image.BufferedImage;
 
 public class Sprite {
-
     private SpriteSheet sheet;
     private float scale;
     private BufferedImage image;
@@ -19,9 +18,6 @@ public class Sprite {
     }
 
     public void render(Graphics2D g, float x, float y) {
-
-
         g.drawImage(image, (int) (x), (int) (y), null);
-
     }
 }

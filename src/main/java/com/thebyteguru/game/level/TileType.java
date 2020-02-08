@@ -1,13 +1,16 @@
 package com.thebyteguru.game.level;
 
 public enum TileType {
-
-    EMPTY(0), BRICK(1), METAL(2), WATER(3), GRASS(4), ICE(5);
+    EMPTY(0),
+    BRICK(1),
+    METAL(2),
+    WATER(3),
+    GRASS(4),
+    ICE(5);
 
     private int n;
 
     TileType(int n) {
-
     }
 
     public int numeric() {
@@ -30,5 +33,4 @@ public enum TileType {
                 return EMPTY;
         }
     }
-
 }
