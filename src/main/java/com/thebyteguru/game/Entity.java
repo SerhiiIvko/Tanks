@@ -1,7 +1,6 @@
 package com.thebyteguru.game;
 
 import java.awt.Graphics2D;
-
 import com.thebyteguru.IO.Input;
 
 public abstract class Entity {

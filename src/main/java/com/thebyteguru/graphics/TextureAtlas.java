@@ -1,7 +1,6 @@
 package com.thebyteguru.graphics;
 
 import java.awt.image.BufferedImage;
-
 import com.thebyteguru.utils.ResourceLoader;
 
 public class TextureAtlas {

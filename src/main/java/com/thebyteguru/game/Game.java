@@ -1,10 +1,9 @@
 package com.thebyteguru.game;
 
 import java.awt.Graphics2D;
-
 import com.thebyteguru.IO.Input;
 import com.thebyteguru.display.Display;
-import com.thebyteguru.game.level.Level;
+//import com.thebyteguru.game.level.Level;
 import com.thebyteguru.graphics.TextureAtlas;
 import com.thebyteguru.utils.Time;
 

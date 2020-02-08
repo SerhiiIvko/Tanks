@@ -2,7 +2,6 @@ package com.thebyteguru.graphics;
 
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
-
 import com.thebyteguru.utils.Utils;
 
 public class Sprite {

@@ -5,7 +5,6 @@ import java.awt.event.KeyEvent;
 import java.awt.image.BufferedImage;
 import java.util.HashMap;
 import java.util.Map;
-
 import com.thebyteguru.IO.Input;
 import com.thebyteguru.graphics.Sprite;
 import com.thebyteguru.graphics.SpriteSheet;

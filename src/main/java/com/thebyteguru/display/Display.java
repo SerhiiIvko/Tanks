@@ -9,9 +9,7 @@ import java.awt.image.BufferStrategy;
 import java.awt.image.BufferedImage;
 import java.awt.image.DataBufferInt;
 import java.util.Arrays;
-
 import javax.swing.JFrame;
-
 import com.thebyteguru.IO.Input;
 
 public abstract class Display {
